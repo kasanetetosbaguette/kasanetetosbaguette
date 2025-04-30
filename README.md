@@ -1,1 +1,1 @@
-KasaneTetosBaguette...      I do hobby stuff here, most my repos are private until they are ready for publishing!     I know a bit of GML, Python and Lua.
+KasaneTetosBaguette...      I do hobby stuff here, most my repos are private until they are ready for publishing!     I know a bit of GML, Python and Lua. I'm trying to learn Java!!! Java's hard though..
