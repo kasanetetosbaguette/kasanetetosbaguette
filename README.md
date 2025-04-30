@@ -1,6 +1,1 @@
-whats up 
-i like coding stuff man
-i know like gml and stuff
-i like teto
-reach me at @hooliganism on discord
-k thanks bye
+KasaneTetosBaguette...      I do hobby stuff here, most my repos are private until they are ready for publishing!     I know a bit of GML, Python and Lua.
