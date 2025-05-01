@@ -1,1 +1,11 @@
-KasaneTetosBaguette...      I do hobby stuff here, most my repos are private until they are ready for publishing!     I know a bit of GML, Python and Lua. I'm trying to learn Java!!! Java's hard though..
+<div align="center">
+  <div>
+    <img alt="salamander" src="salamander...png" width="500" height="350">
+  </div>
+  <div>
+    KasaneTetosBaguette
+  </div>
+  <div>
+      I do hobby stuff here, most of which is hidden and you can't see. Maybe once they're ready they will be public.
+  </div>
+</div>
