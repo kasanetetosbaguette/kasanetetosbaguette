@@ -1,11 +1,9 @@
-<div align="center">
+<div>
   <div>
-    <img alt="salamander" src="salamander...png" width="500" height="350">
-  </div>
-  <div>
-    KasaneTetosBaguette
-  </div>
-  <div>
-      I do hobby stuff here, most of which is hidden and you can't see. Maybe once they're ready they will be public.
+    "Our village of honest men originally consisted of only eight people.
+We all picked up and moved to a mountain in the east. Two years of honest and boring daily life passed us by.
+One day, one of us found a little hole by a peach tree.
+Yes, after that we wandered into this paradise.
+And right away, I quit being human."
   </div>
 </div>
